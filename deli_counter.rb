@@ -38,4 +38,4 @@ nowServing(katzDeli);
 takeANumber(katzDeli, "Matz"); 
 currentLine(katzDeli); 
 nowServing(katzDeli);
-currentLine(katzDeli)# Write your code here.
+currentLine(katzDeli)
